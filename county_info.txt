@@ -1,0 +1,67 @@
+alachua  249365
+baker  27154
+bay  169856
+bradford  28255
+brevard  543566
+broward  1780172
+calhoun  14750
+charlotte  160511
+citrus  140031
+clay  192970
+collier  328134
+columbia  67485
+desoto  34894
+dixie  16486
+duval  870709
+escambia  299114
+flagler  97376
+franklin  11596
+gadsden  46151
+gilchrist  17004
+glades  12635
+gulf  15844
+hamilton  14671
+hardee  27887
+hendry  39089
+hernando  173094
+highlands  98630
+hillsborough  1267775
+holmes  19873
+indian river  138894
+jackson  49292
+jefferson  14658
+lafayette  8942
+lake  301019
+lee  631330
+leon  277971
+levy  40156
+liberty  8314
+madison  19115
+manatee  327142
+marion  332529
+martin  147495
+monroe  73873
+nassau  74195
+new-county  234658
+okaloosa  183482
+okeechobee  40140
+orange  1169107
+osceola  276163
+palm beach  1335187
+pasco  466457
+pinellas  917398
+polk  609492
+putnam  74041
+santa rosa  154104
+sarasota  38213
+seminole  425071
+st. johns  195823
+st. lucie  280379
+sumter  97756
+suwannee  41972
+taylor  22691
+union  15388
+volusia  494804
+wakulla  30978
+walton  55793
+washington  24935
